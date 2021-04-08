@@ -1,0 +1,15 @@
+{
+  "language.name": "English",
+  "language.region": "Canadia",
+  "language.code": "en_ca",
+  "block.minecraft.diorite": "Duck Poop",
+  "block.minecraft.polished_diorite": "Pretty Duck Poop",
+  "item.minecraft.egg": "Duck Egg",
+  "item.minecraft.chicken_spawn_egg": "Duck Spawn Egg",
+  "item.minecraft.elytra": "Duck Wings",
+  "entity.minecraft.chicken": "Duck",
+  "subtitles.entity.chicken.ambient": "Duck quacks",
+  "subtitles.entity.chicken.death": "Duck dies",
+  "subtitles.entity.chicken.egg": "Duck plops",
+  "subtitles.entity.chicken.hurt": "Duck hurts"
+}
